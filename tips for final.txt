@@ -1,0 +1,20 @@
+
+Ex.1
+
+pure python
+list comprehension
+
+一个不会做可以做另一个
+like the exercise we have seem before
+
+Ex.2
+
+pandas
+use pd function to do 
+hint!method head
+maybe one line
+
+Tips:
+numpy is left!
+no dict comprehension!
+no mechine learning part!
